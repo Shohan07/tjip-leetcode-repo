@@ -1,4 +1,4 @@
-//TC : O(N^2 * log(N))
+//TC : O(N^2)
 //SC : O(N)
 class Solution {
 public:

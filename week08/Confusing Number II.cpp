@@ -1,5 +1,5 @@
-// TC : O(log(N))
-// SC : O(1)
+// TC : O(5^(log10(N))) 
+// SC : O(log(N))
 class Solution {
 public:
     int cnt = 0;
